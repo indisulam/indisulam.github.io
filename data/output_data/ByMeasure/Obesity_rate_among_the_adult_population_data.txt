@@ -1,0 +1,9 @@
+Australia	AUS	Obesity_rate_among_the_adult_population	2011	Percentage	28.3
+Finland	FIN	Obesity_rate_among_the_adult_population	2011	Percentage	16.6
+Italy	ITA	Obesity_rate_among_the_adult_population	2011	Percentage	10
+Japan	JPN	Obesity_rate_among_the_adult_population	2011	Percentage	4.1
+Luxembourg	LUX	Obesity_rate_among_the_adult_population	2011	Percentage	23.5
+Netherlands	NLD	Obesity_rate_among_the_adult_population	2011	Percentage	11.4
+New_Zealand	NZL	Obesity_rate_among_the_adult_population	2012	Percentage	28.4
+Sweden	SWE	Obesity_rate_among_the_adult_population	2011	Percentage	11
+United_Kingdom	GBR	Obesity_rate_among_the_adult_population	2011	Percentage	24.8
